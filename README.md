@@ -24,7 +24,7 @@
 <h2>Term 2 (Completed)(July 2023 - December 2023)</h2>
 
 <p><b>- Hardware and Operating Systems Essentials (D386)</b></p>
-<p><b>- Cloud Foundations (AWS Cloud Practitioner (D282)</b></p>
+<p><b>- Cloud Foundations (AWS Cloud Practitioner)(D282)</b></p>
 <p><b>- Introduction to Programming in Python (D335)</b></p>
 <p><b>- IT Leadership Foundations (D370)</b></p>
 <p><b>- Version Control (D197)</b></p>
