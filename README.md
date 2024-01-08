@@ -7,10 +7,10 @@
 
 
 <br><br>
-<h2>Term 1 (December 2022 - June 2023)</h2>
+<h2>Term 1 (Completed)(December 2022 - June 2023)</h2>
 
 
-<p style="color: #FFD700;"><b>- Introduction to IT (C182)</b></p>
+<p><b>- Introduction to IT (C182)</b></p>
 <p><b>- Scripting and Programming - Foundations (C173)</b></p>
 <p><b>- Web Development Foundations (C779)</b></p>
 <p><b>- Network and Security Foundations (C172)</b></p>
@@ -21,25 +21,22 @@
 
 
 <br>
-<h2>Term 2 (July 2023 - December 2023)</h2>
+<h2>Term 2 (Completed)(July 2023 - December 2023)</h2>
+
+<p><b>- Hardware and Operating Systems Essentials (D386)</b></p>
+<p><b>- Cloud Foundations (AWS Cloud Practitioner (D282)</b></p>
+<p><b>- Introduction to Programming in Python (D335)</b></p>
+<p><b>- IT Leadership Foundations (D370)</b></p>
+<p><b>- Version Control (D197)</b></p>
+<p><b>- Front-End Web Development (D277)</b></p>
+<p><b>- JavaScript Programming (D280)</b></p>
 
 
 <br>
-<h2>Term 3 (Upcoming - April 2024 - September 2024)</h2>
-
+<h2>Term 3 (Upcoming)(April 2024 - September 2024)</h2>
+<p><b>- Courses TBD</b></p>
 
 
 <br>
-<h2>Term 4 (Upcoming - January 2025 - June 2025)</h2>
-
-
-
-<style>
-  .green {
-    color: green;
-  }
-
-  .red {
-    color: red;
-  }
-</style>
+<h2>Term 4 (Upcoming)(January 2025 - June 2025)</h2>
+<p><b>- Courses TBD</b></p>
