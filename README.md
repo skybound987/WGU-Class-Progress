@@ -1,9 +1,9 @@
 # WGU-Class-Progress
-<h3>(Updated 7/8/2024)</h3>
+<h3>(Updated 8/7/2024)</h3>
 <br>
 <p><b>11 Courses Transferred</p></b>
-<p><b>15 Courses Completed</b></p>
-<p><b>13 Courses Remaining</b></p>
+<p><b>17 Courses Completed</b></p>
+<p><b>11 Courses Remaining</b></p>
 
 
 <br><br>
@@ -35,19 +35,18 @@
 <br>
 <h2>Term 3 (Upcoming)(April 2024 - September 2024)</h2>
 
-<p>- Data Structures and Algorithims I (C949)</p>
+<p>- <del>Data Structures and Algorithims I (C949)</del> <b>(Complete)</b></p> 
 <p>- <del>Buisness of IT - Project Management (D324)</del> <b>(Complete)</b></p> 
-<p>- Software Engineering (D284)</p>
-<p>- User Interface Design (D279)</p>
+<p>- Software Engineering (D284) <b>(... Nearing Completion ...)</b></p> 
+<p>- User Interface Design (D279) <b>(... Starting Soon ...)</b></p>
 <p>- User Experience Design (D479)</p>
-<p>- Java Fundamentals (D286)</p>
-
+<p>- Software Design and Quality Assurance (D480)</p>
 
 <br>
 <h2>Term 4 (Upcoming)(January 2025 - June 2025)</h2>
 
+<p>- Java Fundamentals (D286)</p>
 <p>- Software Security and Testing (D385)</p>
-<p>- Software Design and Quality Assurance (D480)</p>
 <p>- Java Frameworks (D287)</p>
 <p>- Advanced Java (D387)</p>
 <p>- Back-end Programming (D288)</p>
