@@ -2,8 +2,8 @@
 <h3>(Updated 8/7/2024)</h3>
 <br>
 <p><b>11 Courses Transferred</p></b>
-<p><b>18 Courses Completed</b></p>
-<p><b>10 Courses Remaining</b></p>
+<p><b>19 Courses Completed</b></p>
+<p><b>9 Courses Remaining</b></p>
 
 
 <br><br>
@@ -38,7 +38,7 @@
 <p>- <del>Data Structures and Algorithims I (C949)</del> <b>(Complete)</b></p> 
 <p>- <del>Buisness of IT - Project Management (D324)</del> <b>(Complete)</b></p> 
 <p>- <del>Software Engineering (D284) </del> <b>(Complete)</b></p>  
-<p>- User Interface Design (D279) <b>(... Started ...)</b></p>
+<p>- <del>User Interface Design (D279) </del> <b>(Complete)</b></p> 
 <p>- User Experience Design (D479)</p>
 <p>- Software Design and Quality Assurance (D480)</p>
 
