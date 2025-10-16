@@ -45,17 +45,17 @@
 <h2>Term 4 (Completed)(January 2025 - June 2025)</h2>
 
 <p>- <del>User Experience Design (D479)</del> <b>(Complete)</b></p>
-<p>- <del>Java Fundamentals (D286)</del> <b>(Complete)</b> </p>
-<p>- <del>Java Frameworks (D287)</del> <b>(Complete)</b> </p>
-<p>- <del>Back-end Programming (D288)</p> </del> <b>(Complete)</b> </p>
+<p>- <del>Java Fundamentals (D286)</del> <b>(Complete)</b></p>
+<p>- <del>Java Frameworks (D287)</del> <b>(Complete)</b></p>
+<p>- <del>Back-end Programming (D288)</del> <b>(Complete)</b></p>
 
 
 <br>
-<h2>Term 5 (Current)(July 2025 - December 2025)</h2>
+<h2>Term 5 (Current)(August 2025 - January 2026)</h2>
 
-<p>- <del>Advanced Java (D387)</p></del> <b>(Complete)</b> </p>
+<p>- <del>Advanced Java (D387)</del> <b>(Complete)</b></p>
+<p>- Software Security and Testing (D385) (Currently Working...)</p>
 <p>- Software Design and Quality Assurance (D480)</p>
-<p>- Software Security and Testing (D385)</p>
 <p>- Mobile Application Development (Android) (D308)</p>
 <p>- Software Engineering Capstone (D424)</p>
 
