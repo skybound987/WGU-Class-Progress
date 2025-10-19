@@ -1,5 +1,5 @@
 # WGU-Class-Progress
-<h3>(Updated 10/6/2024)</h3>
+<h3>(Updated 10/18/2025)</h3>
 <br>
 <p><b>11 Courses Transferred</p></b>
 <p><b>25 Courses Completed</b></p>
