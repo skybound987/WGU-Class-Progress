@@ -2,8 +2,8 @@
 <h3>(Updated 10/18/2025)</h3>
 <br>
 <p><b>11 Courses Transferred</p></b>
-<p><b>25 Courses Completed</b></p>
-<p><b>3 Courses Remaining</b></p>
+<p><b>26 Courses Completed</b></p>
+<p><b>2 Courses Remaining</b></p>
 
 
 <br><br>
@@ -55,7 +55,7 @@
 
 <p>- <del>Advanced Java (D387)</del> <b>(Complete)</b></p>
 <p>- <del>Software Security and Testing (D385)</del> <b>(Complete)</b></p>
-<p>- Software Design and Quality Assurance (D480) <b>(Currently working...)</b></p>
-<p>- Mobile Application Development (Android) (D308)</p>
+<p>- <del>Software Design and Quality Assurance (D480)</del> <b>(Complete)</b></p>
+<p>- Mobile Application Development (Android) (D308) <b>(...in progress...)</b></p>
 <p>- Software Engineering Capstone (D424)</p>
 
