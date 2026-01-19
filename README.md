@@ -57,5 +57,5 @@
 <p>- <del>Software Security and Testing (D385)</del> <b>(Complete)</b></p>
 <p>- <del>Software Design and Quality Assurance (D480)</del> <b>(Complete)</b></p>
 <p>- <del>Mobile Application Development (Android) (D308)</del> <b>(Complete)</b> </p>
-<p>- Software Engineering Capstone <b>(...in progress...)</b>(D424)</p>
+<p>- Software Engineering Capstone (D424)<b>(...in progress...)</b></p>
 
