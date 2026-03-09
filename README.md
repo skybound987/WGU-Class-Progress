@@ -1,9 +1,10 @@
 # WGU-Class-Progress
-<h3>(Updated 01/19/2026)</h3>
+<h3>(Updated 03/08/2026)</h3>
+<h3>Degree Completed as of 03/03/2026!</h3>
 <br>
 <p><b>11 Courses Transferred</p></b>
-<p><b>27 Courses Completed</b></p>
-<p><b>1 Courses Remaining</b></p>
+<p><b>28 Courses Completed</b></p>
+<p><b>0 Courses Remaining</b></p>
 
 
 <br><br>
@@ -51,11 +52,11 @@
 
 
 <br>
-<h2>Term 5 (Current)(August 2025 - January 2026)</h2>
+<h2>Term 5 (Completed)(August 2025 - February 2026)</h2>
 
 <p>- <del>Advanced Java (D387)</del> <b>(Complete)</b></p>
 <p>- <del>Software Security and Testing (D385)</del> <b>(Complete)</b></p>
 <p>- <del>Software Design and Quality Assurance (D480)</del> <b>(Complete)</b></p>
 <p>- <del>Mobile Application Development (Android) (D308)</del> <b>(Complete)</b> </p>
-<p>- Software Engineering Capstone (D424)<b>(...in progress...)</b></p>
+<p>- <del>Software Engineering Capstone (D424)</del> <b>(Complete)</b></p>
 
